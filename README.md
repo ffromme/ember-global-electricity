@@ -132,7 +132,7 @@ ember-electricity-analysis/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/ember-electricity-analysis.git
+git clone https://github.com/ffromme/ember-electricity-analysis.git
 cd ember-electricity-analysis
 
 # 2. (Optional) Create a virtual environment
