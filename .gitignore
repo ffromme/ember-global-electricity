@@ -1,0 +1,10 @@
+# Mengabaikan virtual environment
+ember/
+
+# Mengabaikan data mentah
+data/
+*.csv
+
+# Mengabaikan cache jupyter/python
+.ipynb_checkpoints/
+__pycache__/
